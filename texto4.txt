@@ -1,1 +1,2 @@
+primera linea del texto4 desde main
 otro archivo txt
