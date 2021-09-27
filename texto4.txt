@@ -1,2 +1,2 @@
-primera linea del texto4 desde main
+primera linea del texto4 desde main Esta es a primera linea del tecto 4 bienvenidos desde rama3
 otro archivo txt
